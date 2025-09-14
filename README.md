@@ -20,4 +20,4 @@ N개의 수가 주어졌을 때, 이를 오름차순으로 정렬하는 프로�
 1
 ```
 
-[퀵 정렬](https://pitch-eel-0ef.notion.site/Lesson-12-9d7c7bc33eb441b48c504374103accdc?pvs=4)
+[퀵 정렬](https://pitch-eel-0ef.notion.site/Lesson-12-26e0711f396d80c6856ac3da17bf91ad?source=copy_link)
